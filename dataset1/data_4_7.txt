@@ -1,0 +1,62 @@
+---------------
+Instance 7 of configuration 50.3.2 given in (Cheng et al. 2019)
+Server scheduling on parallel dedicated machines with fixed job sequences [https://doi.org/10.1002/nav.21846]
+
+Jobs: 50, Machines: 3
+Setup time: 1
+Processing time: U[0, 20]
+Jobs per machine: n_1=20 n_2=15 n_3=15
+Instance: 7
+---------------
+50 3
+20 15 15
+1 6
+1 8
+1 11
+1 8
+1 1
+1 2
+1 14
+1 12
+1 1
+1 14
+1 6
+1 17
+1 13
+1 5
+1 4
+1 9
+1 12
+1 20
+1 13
+1 12
+1 2
+1 9
+1 16
+1 12
+1 2
+1 17
+1 13
+1 6
+1 15
+1 10
+1 10
+1 16
+1 12
+1 6
+1 12
+1 12
+1 11
+1 12
+1 8
+1 4
+1 17
+1 11
+1 14
+1 15
+1 9
+1 17
+1 5
+1 12
+1 4
+1 4
